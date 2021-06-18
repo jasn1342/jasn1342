@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jasn1342
+- 👋 Hi, I’m Jason Marcil
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning computer science at SNHU
 - 💞️ I’m looking to collaborate on ...
